@@ -4,9 +4,9 @@ html,body {
   height: 100%;
 }
 :root{
-  --primary-color: #22252d;
+  --primary-color: #3a3b3e;
   --secondary-color: #fff;
-  --tertiary-color: #292d36;
+  --tertiary-color: #525252;
   --number-color: #272b33;
 }
 
